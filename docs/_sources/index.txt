@@ -6,13 +6,11 @@
 Welcome to Sphinx Docs Example
 ===============================================
 
-This is a description : Just a demo of git hub pages
-
 Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :captioon: Contents:
 
    code
 
